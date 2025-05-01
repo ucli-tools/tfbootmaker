@@ -25,9 +25,8 @@ This Bash CLI script formats a USB drive with FAT32 and installs an iPXE bootloa
 You can simply clone the directory and run the script.
 
 ```bash
-git clone https://github.com/Mik-TF/tfbootmaker
-cd tfbootmaker
-bash tfboot.sh
+git clone https://github.com/ucli-tools/tfbootmaker
+make
 ```
 
 ## Options
